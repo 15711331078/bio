@@ -1,0 +1,247 @@
+body,div,p,h1,h2,h3,h4 {
+    font-family:"Microsoft YaHei",Microsoft JhengHei, Helvetica, STHeiti STXihei, Arial;
+    font-weight:400;
+    margin:0;
+    padding:0;
+}
+
+p {
+    line-height:30px;
+}
+
+h1,h2 {
+    line-height:40px;
+}
+
+ul {
+    list-style:none;
+    -webkit-padding-start: 0px;
+}
+
+/*基本信息*/
+
+.swiper-wrapper .information {
+    background-color: #1eb9ff;
+}
+
+.information .person-info {
+    margin: 80px auto;
+    text-align: left;
+    color: white;
+    width: 330px;
+}
+
+.information .person-info a {
+    text-decoration: none;
+    color: red;
+}
+
+.information .person-info span {
+    font-size: 40px;
+    display: block;
+    margin: 80px auto 100px;
+}
+
+/*求职意向*/
+
+.swiper-wrapper .wanted {
+    background-color: #989898;
+    color: white;
+    text-align: left;
+}
+
+.wanted .wanted-job {
+    margin: 100px auto 0;
+    width: 330px;
+}
+
+.wanted .wanted-job h2 {
+    margin: 100px auto;
+}
+
+
+/*专业技能*/
+
+.swiper-wrapper .skill {
+    background-color: #852900;
+    color: white;
+}
+
+.skill .skill-text {
+    margin: 100px auto 0;
+}
+
+.skill .skill-text h2 {
+    color: white;
+}
+
+/*.skill .skill-form {*/
+    /*overflow: hidden;*/
+/*}*/
+
+.skill ul {
+    list-style: none;
+    margin-top: 60px;
+}
+
+.skill ul li {
+    height: 50px;
+    line-height: 50px;
+    padding-left: 20px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.skill ul li div {
+    display: none;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.skill ul li div ul {
+    list-style: disc;
+    margin: 0 auto;
+    background-color: #fff;
+    color: #000;
+    position: relative;
+    z-index: 10;
+}
+
+.skill ul li div ul li {
+    height: 20px;
+    line-height: 20px;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.skill ul li#list1:hover div {
+    display: block;
+    width: 600px;
+}
+
+.skill ul li#list2:hover div {
+    display: block;
+    width: 430px;
+}
+
+.skill ul li#list3:hover div {
+    display: block;
+    width: 400px;
+}
+
+.skill ul li#list4:hover div {
+    display: block;
+    width: 300px;
+}
+
+.skill ul li#list5:hover div {
+    display: block;
+    width: 300px;
+
+}
+
+.skill ul #list1 {
+    width: 1200px;
+    background-color: #0f9fed;
+}
+
+.skill ul #list2 {
+    width: 650px;
+    background-color: #31dd88;
+}
+
+.skill ul #list3 {
+    width: 500px;
+    background-color: #7ecc92;
+}
+
+.skill ul #list4 {
+    width: 400px;
+    background-color: #60ffad;
+}
+
+.skill ul #list5 {
+    width: 400px;
+    background-color: rgba(237, 239, 16, 0.45);
+}
+
+
+/*教育经历与语言能力*/
+
+.swiper-wrapper .undergo {
+    background-color: #19ff87;
+    display: flex;
+    padding: 0 80px;
+}
+
+.swiper-wrapper .undergo div{
+    flex:1;
+}
+
+.undergo .education ul,
+.undergo .language ul,
+.undergo .work ul{
+    width: 300px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.undergo .education ul li,
+.undergo .language ul li,
+.undergo .work ul li{
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.undergo .education ul li:hover,
+.undergo .language ul li:hover,
+.undergo .work ul li:hover{
+    background-color: #ffaf14;
+    border-radius: 10px;
+}
+
+
+/*自我评价*/
+
+.swiper-wrapper .evaluate {
+    background-color: #1eb9ff;
+    color: white;
+}
+
+.evaluate h4 {
+    font-size: 40px;
+    text-align: center;
+    margin: 100px auto 0;
+}
+
+.evaluate ul {
+    list-style: none;
+    margin: 130px auto 0;
+    text-align: left;
+    width: 650px;
+}
+
+
+/*致谢*/
+
+.swiper-wrapper .thank {
+    background-color: #EA6153;
+}
+
+.thank h2 {
+    margin: 100px auto 100px;
+    font-size: 40px;
+}
+
+.thank h2,.thank p {
+    text-align: center;
+    color: white;
+}
+
+.thank p {
+    font-size: 24px;
+}
+
+
+
