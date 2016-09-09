@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5becc7-ce7b-4c03-a3ca-051a5164cbd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/item9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bio.html" afterPath="$PROJECT_DIR$/bio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bio.css" afterPath="$PROJECT_DIR$/dist/css/bio.css" />
     </list>
     <ignored path="bio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +26,8 @@
       <file leaf-file-name="bio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5913978">
-              <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.79569894">
+              <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
               <folding>
                 <element signature="n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -297,7 +282,13 @@
       <option name="project" value="LOCAL" />
       <updated>1473408338386</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="这是第四次修改">
+      <created>1473429190252</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1473429190252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -337,7 +328,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是第二次修改" />
     <MESSAGE value="这是第三次修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是第三次修改" />
+    <MESSAGE value="这是第四次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是第四次修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -375,8 +367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5913978">
-          <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.79569894">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
           <folding>
             <element signature="n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
