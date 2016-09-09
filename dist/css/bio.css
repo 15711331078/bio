@@ -18,10 +18,16 @@ ul {
     -webkit-padding-start: 0px;
 }
 
+.swiper-pagination-bullet-active {
+    background-color: #fff;
+}
+
 /*基本信息*/
 
 .swiper-wrapper .information {
-    background-color: #1eb9ff;
+    /*background-color: #1eb9ff;*/
+    background: url("../img/item1.jpg") no-repeat;
+    background-size: cover;
 }
 
 .information .person-info {
@@ -45,7 +51,8 @@ ul {
 /*求职意向*/
 
 .swiper-wrapper .wanted {
-    background-color: #989898;
+    background: url("../img/item10.jpg") no-repeat;
+    background-size: cover;
     color: white;
     text-align: left;
 }
@@ -63,7 +70,8 @@ ul {
 /*专业技能*/
 
 .swiper-wrapper .skill {
-    background-color: #852900;
+    background: url("../img/item6.jpg") no-repeat;
+    background-size: cover;
     color: white;
 }
 
@@ -164,12 +172,17 @@ ul {
     width: 400px;
     background-color: rgba(237, 239, 16, 0.45);
 }
-
+/*项目经历*/
+.swiper-wrapper .project {
+    background: url("../img/item13.jpg") no-repeat;
+    background-size: cover;
+}
 
 /*教育经历与语言能力*/
 
 .swiper-wrapper .undergo {
-    background-color: #19ff87;
+    background: url("../img/item10.jpg") no-repeat;
+    background-size: cover;
     display: flex;
     padding: 0 80px;
 }
@@ -205,7 +218,8 @@ ul {
 /*自我评价*/
 
 .swiper-wrapper .evaluate {
-    background-color: #1eb9ff;
+    background: url("../img/item12.jpg") no-repeat;
+    background-size: cover;
     color: white;
 }
 
@@ -226,7 +240,8 @@ ul {
 /*致谢*/
 
 .swiper-wrapper .thank {
-    background-color: #EA6153;
+    background: url("../img/item8.jpg") no-repeat;
+    background-size: cover;
 }
 
 .thank h2 {
